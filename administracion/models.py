@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 #Clases con sus respectivos models,strs y Meta.
 
 class Empleado(models.Model):
@@ -49,6 +50,14 @@ class Proovedor(models.Model):
         verbose_name = "Proovedor"
         verbose_name_plural = "Proovedores"
         ordering = ["nombre"]
+        
+        
+class Avatar(models.Model):
+    imagen = models.ImageField(upload_to="avatares")
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    
+    def __str__(self):
+        return (self.user), (self.imagen)
     
     
 

@@ -11,7 +11,7 @@
 <form action="{% url 'encontrarproductos' %}" method="get">
     {% csrf_token %}
     <table>
-        <p>Ingrese patron de busqueda: <input type="text" name="buscar" id="buscar"></p>
+        <p>Ingrese condicion de busqueda: <input type="text" name="buscar" id="buscar"></p>
     </table>
     <input type="submit" value="Buscar">
 </form>
