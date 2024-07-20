@@ -17,12 +17,21 @@ La verdad es que Python es mi primer avistamiento serio a la programacion, por l
 ## Para que sirve?
 El objetivo, como ya aclare, es crear un prototipo de pagina que permitiria a una empresa ordenar sus productos y clientes para tener un mayor avistamiento a travez de internet. La gente con solo registrarse se podria entrar y ver todos los productos a disposicion, ademas de poder "anotarse" como clientes para que sean tenidos en cuenta. Todo esto mencionando que habria una pagina en internet que tenga toda la informacion necesaria para contactar a la empresa y asi tenerla mas en cuenta a la hora de comprar productos relacionados.
 
-## Usuario Pagina
-El usuario administrador de la pagina para poder verla bien es el siguiente
+## Usuario Pagina, Video y Excel
+El usuario administrador de la pagina para poder verla bien es el siguiente:
 USUARIO: Admin
 Contraseña:Martinocode123
 
+El link de youtube es el siguiente:
+https://youtu.be/80gE1eTMtEs
 
-## Muchas Gracias por ver!
+Y el Excel lo podemos encontrar en la rama Master o en el siguiente link:
+https://github.com/Dnmartino/De-Ninis-Martino-57810/blob/master/Casos%20de%20Test.xls
+
+
+## Muchas Gracias por ver
+
+
+
 
   
